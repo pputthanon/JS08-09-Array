@@ -60,7 +60,7 @@ const array = [
 //   { name: "watermelon", birth: "1985-12-01", age: 36 },
 // ]
 
-onst array = [
+const array = [
   { name: 'apple', birth: '2000-01-01' },
   { name: 'banana', birth: '1990-10-10' },
   { name: 'watermelon', birth: '1985-12-30' }
